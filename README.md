@@ -97,3 +97,5 @@ _, -, ., +, 등: 기호<br>
   results = re.split(pattern, text)
   print('분리된 문자열:', results)
 </code>
+
+<h3>츨처:Lib0823 </h3>
